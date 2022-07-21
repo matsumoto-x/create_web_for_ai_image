@@ -1,0 +1,11 @@
+#preview img {
+  height: 250px;
+  margin: 10px;
+  border: solid 1px silver;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+body {
+    background-color:#fff;	
+    font-family: 'Kosugi Maru', sans-serif;
+}
